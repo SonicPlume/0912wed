@@ -1,0 +1,49 @@
+body {
+    background-color: #eeeeee;
+}
+
+#wrap {
+    text-align: center;
+    /* margin-top: 35px; */
+}
+
+header,
+nav,
+footer {
+    margin: auto;
+    margin-bottom: 12px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background-color: #ffffff;
+    width: 85%;
+}
+
+header a{
+    color: rgb(5, 196, 62);
+    text-decoration: none;
+}
+
+nav a {
+    color: blueviolet;
+    text-decoration: none;
+    margin-left: 17px;
+    font-size: 18px;
+    border-left: 1.5px slateblue solid;
+    padding-left: 15px;
+}
+section{
+    margin-top: 24px;
+}
+
+section iframe,
+section img{
+    width: 1160px;
+    height: 630px;
+}
+
+
+footer {
+    color: #bba9a9;
+    margin-top: 50px
+}
+
